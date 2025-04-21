@@ -91,9 +91,10 @@ docker-compose run --rm producer
 
 1. پس از بالا آمدن، در مرورگر به `http://localhost:5601` رفتم.  
 2. گزینهٔ **Explore on my own** را زدم.  
-3. در **Discover**، یک Index Pattern با نام `test_pipeline*` بساز و فیلد زمان را `timestamp` انتخاب کردم.  
-4. بازهٔ زمانی (Date Picker) را از **Last 15 minutes** به مثلا **Last 90 days** یا رنج دستی شامل تاریخ داده‌ها تغییر دادم.  
+3. در **Discover**، یک Index Pattern با نام `test_pipeline*` ساختم و فیلد زمان را `timestamp` انتخاب کردم.  
+4. بازهٔ زمانی (Date Picker) را از **Last 15 minutes** به مثلا **Last 90 days**  تغییر دادم.  
 5. اسناد تمیز شده را دیدم و اسکرین‌شات گرفتم و به شرح زیر است.
+![اسکرین شات کیبانا](<Screenshot 2025-04-21 at 4.35.28 PM.png>)
 
 ---
 
