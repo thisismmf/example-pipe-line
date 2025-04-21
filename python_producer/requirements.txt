@@ -1,0 +1,4 @@
+confluent-kafka
+python-dateutil
+faker
+kafka-python==2.0.2
